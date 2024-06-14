@@ -1,0 +1,57 @@
+body{
+    background-size:cover;
+    background-repeat: no-repeat ;
+  background-image:url(https://wallpapers.com/images/featured/amazon-npcp6jc782ixp9zs.jpg);
+}
+* {  
+    padding: 0px;
+    margin: 0px;
+    /* color: white; */
+}
+.content{
+    height: 100px;
+width: 100px;
+border: 5px solid black;
+display: inline-block;
+
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+     position:sticky   ;
+top: 0vh;     
+}
+button{
+background-color: orange;
+}
+#logo{
+    color: orange;
+    font-size: 25px;
+}
+a{
+    color: white;
+    margin-right: 200px;
+}
+footer{
+    color: aquamarine;
+    background-color: black;
+}
+marquee{
+    height: 25px;
+    background-color: brown;
+    color: aqua;
+}
+#x{
+    height: 900px;
+
+}
+ h1{
+   margin-left: 10rem;
+   height: 14rem;
+   font-size: 6rem;
+   color:  orange;
+ }   
+ p{
+    background-color: black;
+    color:white ;
+ }
